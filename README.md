@@ -1,1 +1,3 @@
-# prueba_de_diagnostico_paralela
+# Prueba de diagnostico
+# Computación paralela y distribuida
+# Por profesor Sebastián Salazar
