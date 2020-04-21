@@ -1,0 +1,7 @@
+¿En qué consiste la exclusión mutua?
+
+R: La exclusión mutua consiste en que un proceso excluye temporalmente
+   a todos los demás para usar un recurso compartido, garantizando así
+   la integridad del sistema, lo que implica que solo un proceso tiene
+   el permiso para entrar en todas las secciones criticas por el mismo
+   mismo recurso compartido. 

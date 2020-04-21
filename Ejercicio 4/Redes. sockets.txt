@@ -1,0 +1,8 @@
+¿Qué es un sockets?
+
+R: Sockets es un software que funciona como comunicación entre el programa
+   servidor, que envia una respuesta al cliente, y el programa cliente,
+   que envia una petición al servidor. La forma como funciona un sockets
+   es que un cliente envía una petición al servidor, el servidor recibe 
+   esa petición, lo procesa según la lógica que está construido y 
+   devuelve con una respuesta al cliente.

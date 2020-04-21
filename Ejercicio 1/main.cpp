@@ -7,7 +7,6 @@ using namespace std;
 int main()
 {
     string cadena, resultado, caracteragregado;
-    caracteragregado = " ";
     int i, j, afir, k, cont;
     cout << "Ejercicio n1" << endl;
     cout <<"Ingrese una cadena de caracteres: ";

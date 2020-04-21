@@ -1,0 +1,17 @@
+SELECT
+    c.name
+    c.start_date
+    AVG(ev.score)
+    STDEV(ev.score)
+    MIN(ev.score)
+    MAX(ev.score)
+FROM
+    courses c
+    evaluations ev
+    exams e
+WHERE
+       c.pk = e.course_fk
+   AND e.pk = ev.exam_fk
+GROUP BY c.name, c.start_date
+      
+    
