@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587433744 source:c:\users\sebas\desktop\estudio de ing. civil en computación\9° semestre\computación paralela y distribuida\prueba de diagnostico\desarrollopruebadediagnostico\prueba_de_diagnostico_paralela\ejercicio 1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
