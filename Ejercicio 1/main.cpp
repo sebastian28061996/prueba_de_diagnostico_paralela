@@ -31,7 +31,7 @@ int main()
                 }
             }
             caracteragregado = caracteragregado + cadena[i]; //Letras ya contadas
-            resultado = resultado + cadena[i] + char(cont); // Cadena + letra contada + contador de letra
+            resultado = resultado + cadena[i] + char(cont); // Cadena resultado final + letra contada + contador de letra
         }
 
     }
